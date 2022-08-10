@@ -237,6 +237,12 @@ address {
   background-color: var(--accent-color);
 }
 
+.hero-button.primary:hover,
+.hero-button.primary:focus {
+  color: var(--primary-white-color);
+  background-color: #188ce8;
+}
+
 /*Features*/
 
 .features {
